@@ -33,3 +33,36 @@
 [Google Drive](https://drive.google.com/drive/folders/1egWenKd_r3LRpdCf4SsqTeFZ1ZdY3DNx?usp=drive_link). 
 
 The latest edition can be found in [Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search).
+
+**Methodology:** SQL Data Exploration + Tableau Visualization
+**Objective:** Identify high-demand skills and top-paying positions in the data job market
+
+**Key Research Questions Explored**
+- Market Overview
+  - Total job postings and unique companies
+  - Distribution of job schedules (remote, hybrid, in-office)
+  - Posting frequency by month/platform to identify hiring trends
+- Compensation Analysis
+  - Positions with highest average yearly salaries
+  - Salary variations across job categories
+- Skill Demand Mapping
+  - Most frequently required skills by position
+  - Emerging skill trends in data-related roles
+
+**SQL Techniques Applied**
+|Category|Specific Skills Demonstrated|
+|++|++|
+|Query Fundamentals|SELECT, DISTINCT, WHERE, GROUP BY, ORDER BY|
+|Conditional Logic|Comparison operators, LIKE with wildcards, HAVING|
+|Data Aggregation|COUNT(), AVG(), SUM(), MAX()/MIN()|
+|Table Relationships|INNER JOIN, LEFT/RIGHT JOIN, FULL OUTER JOIN|
+|Advanced Querying|Subqueries, Common Table Expressions (CTEs)|
+|Analytical Functions|Window functions (ROW_NUMBER())|
+|Data Transformation|CASE statements for conditional categorization|
+
+**Visualization Approach**
+- Developed interactive Tableau dashboards to:
+  - Compare salary distributions across job titles
+  - Track monthly posting trends via animated time-series
+  - Generate skill heatmaps for different positions
+- Implemented cross-filtering for dynamic exploration
