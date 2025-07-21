@@ -1,7 +1,12 @@
 ### This portfolio includes 3 projects: 
 
-1. **Project: [YouTube Analytics Data Exploration](https://github.com/zhaosong217/Data_Analyst_Portfolio/tree/9bfa6bebf705ee299ee09fe0d68c4e4f7d2d0b4c/YouTube%20Date%20Analysis)**
-   *Dataset Source:* [Kaggle - YouTube Data for Analytics (600 rows)](https://www.kaggle.com/datasets/abdulwadood11220/youtube-data-for-analytics-600-rows)
+**Excel Project:**
+
+[YouTube Analytics Data Exploration](https://github.com/zhaosong217/Data_Analyst_Portfolio/tree/9bfa6bebf705ee299ee09fe0d68c4e4f7d2d0b4c/YouTube%20Date%20Analysis)
+
+*Dataset Source:* 
+
+[Kaggle - YouTube Data for Analytics (600 rows)](https://www.kaggle.com/datasets/abdulwadood11220/youtube-data-for-analytics-600-rows)
 
 **Key Accomplishments:**
   - **Data Cleaning & Preparation (Microsoft Excel)**
