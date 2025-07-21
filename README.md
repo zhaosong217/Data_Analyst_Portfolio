@@ -1,6 +1,6 @@
-## This portfolio includes 3 projects: 
+# Portfolio Introduction
 
-### **Excel Project:**
+## **1. Excel Project:**
 
 [YouTube Analytics Data Exploration](https://github.com/zhaosong217/Data_Analyst_Portfolio/tree/9bfa6bebf705ee299ee09fe0d68c4e4f7d2d0b4c/YouTube%20Date%20Analysis)
 
