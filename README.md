@@ -51,7 +51,7 @@ The latest edition can be found in [Kaggle](https://www.kaggle.com/datasets/luke
 
 **SQL Techniques Applied**
 |Category|Specific Skills Demonstrated|
-|++|++|
+|--------|--------|
 |Query Fundamentals|SELECT, DISTINCT, WHERE, GROUP BY, ORDER BY|
 |Conditional Logic|Comparison operators, LIKE with wildcards, HAVING|
 |Data Aggregation|COUNT(), AVG(), SUM(), MAX()/MIN()|
