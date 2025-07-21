@@ -25,3 +25,11 @@
 
 **Dashboard Screenshot**
 <img width="2458" height="2046" alt="YouTube Data Analytics Excel 2 0" src="https://github.com/user-attachments/assets/c4ffdf70-e533-4d43-954d-bae0ca00d245" />
+
+## **2. SQL & Tableau Project:**
+[Job Data Analysis in 2023](https://github.com/zhaosong217/Data_Analyst_Portfolio/tree/9bfa6bebf705ee299ee09fe0d68c4e4f7d2d0b4c/job_analysis)
+
+*Dataset Source:*
+[Google Drive](https://drive.google.com/drive/folders/1egWenKd_r3LRpdCf4SsqTeFZ1ZdY3DNx?usp=drive_link). 
+
+The latest edition can be found in [Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search).
