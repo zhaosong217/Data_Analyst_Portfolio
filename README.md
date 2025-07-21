@@ -34,6 +34,9 @@
 
 The latest edition can be found in [Kaggle](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search).
 
+In this dataset, there are 4 tables: job_postings_fact, company_dim, skills_job_dim and skills_dim. The following chart shows the relationship of these tables:
+<img width="2014" height="1616" alt="relationship" src="https://github.com/user-attachments/assets/560bf9d8-5dbd-4f3b-9194-36f43502de1f" />
+
 **Methodology:** SQL Data Exploration + Tableau Visualization
 **Objective:** Identify high-demand skills and top-paying positions in the data job market
 
