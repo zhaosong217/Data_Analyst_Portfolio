@@ -73,3 +73,8 @@ In this dataset, there are 4 tables: job_postings_fact, company_dim, skills_job_
 
 [Dashboard](https://public.tableau.com/views/SQL_job_analysis_job_platform/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="3734" height="1838" alt="Dashboard_1" src="https://github.com/user-attachments/assets/d7fbe70f-1980-42ff-9ef5-7112b021a8a7" />
+
+There is also a Sweden edition:
+[Dashboard: Sweden](https://public.tableau.com/views/Sweden_job_data_analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="3734" height="1838" alt="Dashboard_1" src="https://github.com/user-attachments/assets/bbb1e7e2-1562-4827-8e4b-802c2fccbff5" />
+
