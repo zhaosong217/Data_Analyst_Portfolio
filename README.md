@@ -9,7 +9,8 @@
 [Kaggle - YouTube Data for Analytics (600 rows)](https://www.kaggle.com/datasets/abdulwadood11220/youtube-data-for-analytics-600-rows)
 
 **Key Accomplishments**
-  - **Data Cleaning & Preparation (Microsoft Excel)**
+
+**Data Cleaning & Preparation (Microsoft Excel)**
   - Performed deduplication to ensure data integrity
   - Removed irrelevant columns to focus analysis
   - Extracted and standardized date/time/duration metrics
