@@ -1,0 +1,646 @@
+[
+  {
+    "job_country": "United States",
+    "total_jobs": "206943"
+  },
+  {
+    "job_country": "India",
+    "total_jobs": "51197"
+  },
+  {
+    "job_country": "United Kingdom",
+    "total_jobs": "40439"
+  },
+  {
+    "job_country": "France",
+    "total_jobs": "40028"
+  },
+  {
+    "job_country": "Germany",
+    "total_jobs": "27782"
+  },
+  {
+    "job_country": "Spain",
+    "total_jobs": "25123"
+  },
+  {
+    "job_country": "Singapore",
+    "total_jobs": "23702"
+  },
+  {
+    "job_country": "Sudan",
+    "total_jobs": "21519"
+  },
+  {
+    "job_country": "Netherlands",
+    "total_jobs": "20673"
+  },
+  {
+    "job_country": "Italy",
+    "total_jobs": "17073"
+  },
+  {
+    "job_country": "Canada",
+    "total_jobs": "16083"
+  },
+  {
+    "job_country": "Mexico",
+    "total_jobs": "15182"
+  },
+  {
+    "job_country": "Poland",
+    "total_jobs": "14855"
+  },
+  {
+    "job_country": "Portugal",
+    "total_jobs": "14588"
+  },
+  {
+    "job_country": "Australia",
+    "total_jobs": "12966"
+  },
+  {
+    "job_country": "South Africa",
+    "total_jobs": "12573"
+  },
+  {
+    "job_country": "Belgium",
+    "total_jobs": "12160"
+  },
+  {
+    "job_country": "Philippines",
+    "total_jobs": "11788"
+  },
+  {
+    "job_country": "Ireland",
+    "total_jobs": "11163"
+  },
+  {
+    "job_country": "Switzerland",
+    "total_jobs": "9970"
+  },
+  {
+    "job_country": "Austria",
+    "total_jobs": "9775"
+  },
+  {
+    "job_country": "Malaysia",
+    "total_jobs": "9236"
+  },
+  {
+    "job_country": "Argentina",
+    "total_jobs": "8771"
+  },
+  {
+    "job_country": "Chile",
+    "total_jobs": "8126"
+  },
+  {
+    "job_country": "Hong Kong",
+    "total_jobs": "7860"
+  },
+  {
+    "job_country": "Colombia",
+    "total_jobs": "7777"
+  },
+  {
+    "job_country": "United Arab Emirates",
+    "total_jobs": "7604"
+  },
+  {
+    "job_country": "Brazil",
+    "total_jobs": "7047"
+  },
+  {
+    "job_country": "Denmark",
+    "total_jobs": "7035"
+  },
+  {
+    "job_country": "Costa Rica",
+    "total_jobs": "6383"
+  },
+  {
+    "job_country": "Sweden",
+    "total_jobs": "6312"
+  },
+  {
+    "job_country": "Peru",
+    "total_jobs": "6193"
+  },
+  {
+    "job_country": "Israel",
+    "total_jobs": "4883"
+  },
+  {
+    "job_country": "Czechia",
+    "total_jobs": "4621"
+  },
+  {
+    "job_country": "Thailand",
+    "total_jobs": "4160"
+  },
+  {
+    "job_country": "Russia",
+    "total_jobs": "3745"
+  },
+  {
+    "job_country": "Romania",
+    "total_jobs": "3740"
+  },
+  {
+    "job_country": "Saudi Arabia",
+    "total_jobs": "3406"
+  },
+  {
+    "job_country": "Indonesia",
+    "total_jobs": "3009"
+  },
+  {
+    "job_country": "Egypt",
+    "total_jobs": "2920"
+  },
+  {
+    "job_country": "China",
+    "total_jobs": "2569"
+  },
+  {
+    "job_country": "Finland",
+    "total_jobs": "2557"
+  },
+  {
+    "job_country": "New Zealand",
+    "total_jobs": "2462"
+  },
+  {
+    "job_country": "Vietnam",
+    "total_jobs": "2423"
+  },
+  {
+    "job_country": "Hungary",
+    "total_jobs": "2404"
+  },
+  {
+    "job_country": "Luxembourg",
+    "total_jobs": "2180"
+  },
+  {
+    "job_country": "Pakistan",
+    "total_jobs": "2156"
+  },
+  {
+    "job_country": "Japan",
+    "total_jobs": "2078"
+  },
+  {
+    "job_country": "Greece",
+    "total_jobs": "2048"
+  },
+  {
+    "job_country": "Ukraine",
+    "total_jobs": "1898"
+  },
+  {
+    "job_country": "Puerto Rico",
+    "total_jobs": "1717"
+  },
+  {
+    "job_country": "Kenya",
+    "total_jobs": "1715"
+  },
+  {
+    "job_country": "Norway",
+    "total_jobs": "1694"
+  },
+  {
+    "job_country": "South Korea",
+    "total_jobs": "1686"
+  },
+  {
+    "job_country": "Lithuania",
+    "total_jobs": "1516"
+  },
+  {
+    "job_country": "Taiwan",
+    "total_jobs": "1495"
+  },
+  {
+    "job_country": "Qatar",
+    "total_jobs": "1400"
+  },
+  {
+    "job_country": "Uruguay",
+    "total_jobs": "1396"
+  },
+  {
+    "job_country": "Turkey",
+    "total_jobs": "1367"
+  },
+  {
+    "job_country": "Bulgaria",
+    "total_jobs": "1226"
+  },
+  {
+    "job_country": "Morocco",
+    "total_jobs": "1218"
+  },
+  {
+    "job_country": "Panama",
+    "total_jobs": "1158"
+  },
+  {
+    "job_country": "Nigeria",
+    "total_jobs": "1052"
+  },
+  {
+    "job_country": "Serbia",
+    "total_jobs": "1021"
+  },
+  {
+    "job_country": "Slovakia",
+    "total_jobs": "962"
+  },
+  {
+    "job_country": "Jordan",
+    "total_jobs": "952"
+  },
+  {
+    "job_country": "Cyprus",
+    "total_jobs": "779"
+  },
+  {
+    "job_country": "Sri Lanka",
+    "total_jobs": "736"
+  },
+  {
+    "job_country": "Malta",
+    "total_jobs": "712"
+  },
+  {
+    "job_country": "Tunisia",
+    "total_jobs": "707"
+  },
+  {
+    "job_country": "Kuwait",
+    "total_jobs": "703"
+  },
+  {
+    "job_country": "Ecuador",
+    "total_jobs": "654"
+  },
+  {
+    "job_country": "Kazakhstan",
+    "total_jobs": "631"
+  },
+  {
+    "job_country": "Estonia",
+    "total_jobs": "591"
+  },
+  {
+    "job_country": "Belarus",
+    "total_jobs": "541"
+  },
+  {
+    "job_country": "Dominican Republic",
+    "total_jobs": "474"
+  },
+  {
+    "job_country": "Lebanon",
+    "total_jobs": "464"
+  },
+  {
+    "job_country": "Namibia",
+    "total_jobs": "411"
+  },
+  {
+    "job_country": "Latvia",
+    "total_jobs": "394"
+  },
+  {
+    "job_country": "Croatia",
+    "total_jobs": "374"
+  },
+  {
+    "job_country": "Bahrain",
+    "total_jobs": "351"
+  },
+  {
+    "job_country": "Uzbekistan",
+    "total_jobs": "331"
+  },
+  {
+    "job_country": "Uganda",
+    "total_jobs": "328"
+  },
+  {
+    "job_country": "Guatemala",
+    "total_jobs": "303"
+  },
+  {
+    "job_country": "Armenia",
+    "total_jobs": "290"
+  },
+  {
+    "job_country": "Bangladesh",
+    "total_jobs": "278"
+  },
+  {
+    "job_country": "Ghana",
+    "total_jobs": "272"
+  },
+  {
+    "job_country": "Nepal",
+    "total_jobs": "271"
+  },
+  {
+    "job_country": "Guam",
+    "total_jobs": "246"
+  },
+  {
+    "job_country": "Moldova",
+    "total_jobs": "235"
+  },
+  {
+    "job_country": "Mauritius",
+    "total_jobs": "233"
+  },
+  {
+    "job_country": "U.S. Virgin Islands",
+    "total_jobs": "225"
+  },
+  {
+    "job_country": "Slovenia",
+    "total_jobs": "207"
+  },
+  {
+    "job_country": "Oman",
+    "total_jobs": "193"
+  },
+  {
+    "job_country": "Jamaica",
+    "total_jobs": "163"
+  },
+  {
+    "job_country": "El Salvador",
+    "total_jobs": "137"
+  },
+  {
+    "job_country": "Macedonia (FYROM)",
+    "total_jobs": "130"
+  },
+  {
+    "job_country": "Iraq",
+    "total_jobs": "117"
+  },
+  {
+    "job_country": "Albania",
+    "total_jobs": "114"
+  },
+  {
+    "job_country": "Algeria",
+    "total_jobs": "110"
+  },
+  {
+    "job_country": "Senegal",
+    "total_jobs": "108"
+  },
+  {
+    "job_country": "Nicaragua",
+    "total_jobs": "105"
+  },
+  {
+    "job_country": "Zambia",
+    "total_jobs": "103"
+  },
+  {
+    "job_country": "Ethiopia",
+    "total_jobs": "93"
+  },
+  {
+    "job_country": "Kyrgyzstan",
+    "total_jobs": "83"
+  },
+  {
+    "job_country": "Azerbaijan",
+    "total_jobs": "81"
+  },
+  {
+    "job_country": "Honduras",
+    "total_jobs": "78"
+  },
+  {
+    "job_country": "Cambodia",
+    "total_jobs": "77"
+  },
+  {
+    "job_country": "Zimbabwe",
+    "total_jobs": "75"
+  },
+  {
+    "job_country": "Venezuela",
+    "total_jobs": "74"
+  },
+  {
+    "job_country": "Bahamas",
+    "total_jobs": "70"
+  },
+  {
+    "job_country": "Rwanda",
+    "total_jobs": "61"
+  },
+  {
+    "job_country": "Réunion",
+    "total_jobs": "60"
+  },
+  {
+    "job_country": "Paraguay",
+    "total_jobs": "59"
+  },
+  {
+    "job_country": "Bolivia",
+    "total_jobs": "59"
+  },
+  {
+    "job_country": "Trinidad and Tobago",
+    "total_jobs": "57"
+  },
+  {
+    "job_country": "Myanmar",
+    "total_jobs": "54"
+  },
+  {
+    "job_country": "Côte d'Ivoire",
+    "total_jobs": "53"
+  },
+  {
+    "job_country": null,
+    "total_jobs": "52"
+  },
+  {
+    "job_country": "Liberia",
+    "total_jobs": "49"
+  },
+  {
+    "job_country": "Bosnia and Herzegovina",
+    "total_jobs": "49"
+  },
+  {
+    "job_country": "Tanzania",
+    "total_jobs": "49"
+  },
+  {
+    "job_country": "Montenegro",
+    "total_jobs": "46"
+  },
+  {
+    "job_country": "Congo, Democratic Republic of the",
+    "total_jobs": "42"
+  },
+  {
+    "job_country": "Iceland",
+    "total_jobs": "42"
+  },
+  {
+    "job_country": "Mongolia",
+    "total_jobs": "40"
+  },
+  {
+    "job_country": "Libya",
+    "total_jobs": "39"
+  },
+  {
+    "job_country": "Benin",
+    "total_jobs": "38"
+  },
+  {
+    "job_country": "Botswana",
+    "total_jobs": "31"
+  },
+  {
+    "job_country": "Haiti",
+    "total_jobs": "28"
+  },
+  {
+    "job_country": "Malawi",
+    "total_jobs": "26"
+  },
+  {
+    "job_country": "Cameroon",
+    "total_jobs": "23"
+  },
+  {
+    "job_country": "Suriname",
+    "total_jobs": "23"
+  },
+  {
+    "job_country": "Mozambique",
+    "total_jobs": "21"
+  },
+  {
+    "job_country": "Cayman Islands",
+    "total_jobs": "19"
+  },
+  {
+    "job_country": "Barbados",
+    "total_jobs": "19"
+  },
+  {
+    "job_country": "Burkina Faso",
+    "total_jobs": "19"
+  },
+  {
+    "job_country": "Afghanistan",
+    "total_jobs": "18"
+  },
+  {
+    "job_country": "Togo",
+    "total_jobs": "16"
+  },
+  {
+    "job_country": "Palestine",
+    "total_jobs": "15"
+  },
+  {
+    "job_country": "Brunei",
+    "total_jobs": "15"
+  },
+  {
+    "job_country": "Somalia",
+    "total_jobs": "13"
+  },
+  {
+    "job_country": "Angola",
+    "total_jobs": "12"
+  },
+  {
+    "job_country": "Fiji",
+    "total_jobs": "12"
+  },
+  {
+    "job_country": "Tajikistan",
+    "total_jobs": "12"
+  },
+  {
+    "job_country": "Madagascar",
+    "total_jobs": "12"
+  },
+  {
+    "job_country": "Yemen",
+    "total_jobs": "11"
+  },
+  {
+    "job_country": "Mali",
+    "total_jobs": "10"
+  },
+  {
+    "job_country": "Djibouti",
+    "total_jobs": "9"
+  },
+  {
+    "job_country": "Laos",
+    "total_jobs": "8"
+  },
+  {
+    "job_country": "Guinea",
+    "total_jobs": "8"
+  },
+  {
+    "job_country": "Mauritania",
+    "total_jobs": "6"
+  },
+  {
+    "job_country": "Gambia",
+    "total_jobs": "6"
+  },
+  {
+    "job_country": "Papua New Guinea",
+    "total_jobs": "6"
+  },
+  {
+    "job_country": "Guyana",
+    "total_jobs": "6"
+  },
+  {
+    "job_country": "Northern Mariana Islands",
+    "total_jobs": "5"
+  },
+  {
+    "job_country": "Guadeloupe",
+    "total_jobs": "5"
+  },
+  {
+    "job_country": "Lesotho",
+    "total_jobs": "4"
+  },
+  {
+    "job_country": "Curaçao",
+    "total_jobs": "3"
+  },
+  {
+    "job_country": "Maldives",
+    "total_jobs": "2"
+  },
+  {
+    "job_country": "Bhutan",
+    "total_jobs": "2"
+  }
+]
