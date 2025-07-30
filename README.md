@@ -75,7 +75,43 @@ In this dataset, there are 4 tables: job_postings_fact, company_dim, skills_job_
 [Dashboard](https://public.tableau.com/views/SQL_job_analysis_job_platform/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="3734" height="1838" alt="Dashboard_1" src="https://github.com/user-attachments/assets/d7fbe70f-1980-42ff-9ef5-7112b021a8a7" />
 
-There is also a Sweden edition:
-[Dashboard: Sweden](https://public.tableau.com/views/Sweden_job_data_analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img width="3734" height="1838" alt="Dashboard_1" src="https://github.com/user-attachments/assets/bbb1e7e2-1562-4827-8e4b-802c2fccbff5" />
+## **3. Python Project:**
+
+[Ken Jee YouTube Data Analysis](https://github.com/zhaosong217/ken_jee_youtube_analysis)
+
+*Dataset Source:* 
+
+[Kaggle - Ken Jee YouTube Data](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data/data)
+
+**Key Accomplishments**
+
+Data Loading and Preparation:
+- Successfully loaded four datasets: Aggregated_Metrics_By_Country_And_Subscriber_Status.csv, Aggregated_Metrics_By_Video.csv, All_Comments_Final.csv, and Video_Performance_Over_Time.csv.
+- Created copies of the datasets (Country_df, Video_df, Comment_df, Aggregate_df) to ensure data integrity during analysis.
+- Utilized essential Python libraries such as pandas, numpy, matplotlib, seaborn, plotly.express, nltk, textblob, and transformers for data manipulation, visualization, and text analysis.
+
+
+Exploratory Data Analysis (EDA):
+- Conducted an initial exploration of the Country_df dataset, displaying its first few rows, structure (info()), and statistical summary (describe()).
+- Identified key columns in Country_df, including Video Title, Video Length, Views, Video Likes Added, User Comments Added, and others, which provided a foundation for further analysis.
+- Analyzed the distribution of subscribers with Country_df['Is Subscribed'].value_counts(), indicating an interest in understanding subscriber behavior.
+
+Visualization:
+- Created a scatter plot to explore the relationship between Average view duration seconds and Subscribers lost using seaborn.scatterplot.
+- The plot was customized with specific figure settings (e.g., removing top and right spines, setting y-axis limits) to enhance readability, though the regression line was commented out.
+
+
+Analysis of Video Duration and Comments (Question 3):
+- Merged relevant columns from Video_df (Video Title, External Video ID, Video Length) and Aggregate_df (Video, Comments added) using pd.merge with External Video ID and Video as keys, creating a new DataFrame video_length_comment.
+- Grouped the merged DataFrame by Video Title and Video Length to calculate the total Comments added for each video, resulting in len_com_df with 223 unique video entries.
+- Computed the Pearson correlation coefficient between Video Length and Comments added using corr(), yielding a value of 0.1712.
+- Interpreted the correlation result, indicating a weak positive correlation between video duration and the number of comments, suggesting that longer videos tend to have slightly more comments, but the relationship is not strong.
+
+
+Key Findings:
+- The Pearson correlation coefficient of 0.1712 highlights that video length has a limited impact on the number of comments. This suggests that while longer videos may attract more comments to some extent, other factors (e.g., content quality, topic relevance, or audience engagement strategies) likely play a more significant role in driving comments.
+- The analysis provides a clear, data-driven answer to one of the advanced targets, demonstrating the ability to extract and analyze relevant metrics from multiple datasets.
+
+**Dashboard Screenshot**
+<img width="1305" height="1353" alt="Dashboard" src="https://github.com/user-attachments/assets/c4c10656-0df1-4dab-b574-4b4488c002bb" />
 
