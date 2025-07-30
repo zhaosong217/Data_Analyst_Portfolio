@@ -79,9 +79,8 @@ In this dataset, there are 4 tables: job_postings_fact, company_dim, skills_job_
 
 [Ken Jee YouTube Data Analysis](https://github.com/zhaosong217/ken_jee_youtube_analysis)
 
-*Dataset Source:* 
-
-[Kaggle - Ken Jee YouTube Data](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data/data)
+*Kaggle Link:*
+[ken jee youtube analysis](https://www.kaggle.com/code/szha3004/ken-jee-youtube-data-analysis)
 
 **Key Accomplishments**
 
